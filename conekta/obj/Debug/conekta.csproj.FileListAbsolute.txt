@@ -1,0 +1,13 @@
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\conekta.dll
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\conekta.pdb
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\nunit.framework.dll
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\xunit.assert.dll
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\nunit.framework.xml
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\bin\Debug\xunit.assert.xml
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\obj\Debug\conekta.csproj.AssemblyReference.cache
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\obj\Debug\conekta.csproj.CoreCompileInputs.cache
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\obj\Debug\conekta.csproj.CopyComplete
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\obj\Debug\conekta.dll
+C:\Users\lrosas\source\repos\conekta-.net\src\conekta\conekta\obj\Debug\conekta.pdb
